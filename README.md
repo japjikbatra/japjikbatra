@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Japji, and I'm an undergraduate student studying Computer Science and Mathematics!
+
+My interests include robotics, computer vision, ML, cybersecurity, software engineering, and healthTech!
+
 <!--
 **japjikbatra/japjikbatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
