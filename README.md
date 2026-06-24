@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="768" height="1024" alt="WhatsApp Image 2026-05-07 at 6 36 42 PM" src="https://github.com/user-attachments/assets/89976a34-b4db-44b1-8235-1421ee12d55d" />
+<img width="384" height="512" alt="WhatsApp Image 2026-05-07 at 6 36 42 PM" src="https://github.com/user-attachments/assets/89976a34-b4db-44b1-8235-1421ee12d55d" />
 
 
 My name is Japji, and I'm an undergraduate student studying Computer Science and Mathematics!
